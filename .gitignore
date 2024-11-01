@@ -49,10 +49,10 @@ desktop.ini
 Pipfile.lock
 
 # Poetry
-poetry.lock
+#poetry.lock
 
 # pyproject.toml (sometimes used for project config)
-pyproject.toml
+#pyproject.toml
 
 # Test output
 coverage/
